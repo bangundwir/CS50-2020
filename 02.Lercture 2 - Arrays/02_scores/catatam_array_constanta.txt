@@ -1,0 +1,19 @@
+int score1 = 72;
+
+int score2 = 73;
+
+int score3 = 33;
+
+=============
+
+==========
+
+arrays
+
+int scores[3];
+
+int score[0] = 72;
+
+int score[1] = 73;
+
+int score[2] = 33;

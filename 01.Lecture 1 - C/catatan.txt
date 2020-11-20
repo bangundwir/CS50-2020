@@ -1,0 +1,145 @@
+help50 = membantu menyusun kode
+style50 = memeriksa gaya penulisan
+check50
+
+cd = masuk direktory
+cp = copy file
+ls = list file
+mkdir = membuat folder
+mv = pindah file
+rm = hapus file
+rmdir = hapus folder
+...
+
+type
+get_char
+get_double
+get_float
+get_int
+get_long
+get_string
+...
+
+formatcode
+%x
+%f  = floating
+%i  = intiger
+%li = long
+%s
+...
+
+operatars
++
+-
+*
+/
+%
+...
+
+variable, syntactic sugar
+int counter = 0;
+counter = counter + 1;
+counter += 1;
+counter++
+...
+
+conditions
+
+if (x < y)
+{
+    printf("x is less than y\n");
+}
+......
+
+if (x < y)
+{
+    printf("x is less than y\n");
+}
+else
+{
+    printf("x is not less than y\n");
+}
+...
+
+if (- < y)
+{
+    printf("x is less than y\n");
+}
+else if (x > y)
+{
+    printf("x is greater than y\n");
+}
+else if (x == y)
+{
+    printf("x is equal to y\n");
+}
+........
+
+Loop
+
+while
+{
+    printf("hello, wolrd\n");
+}
+....
+
+while (true)
+{
+    printf("hello, wolrd\n");
+}
+....
+
+int i = 0;
+while (i < 10)
+{
+    printf("hello, world\n");
+    //i = i + 1;
+    i++;
+}
+.....
+
+int i = 1;
+while (i <= 50)
+{
+    printf("hello, world\n");
+    //i = i + 1;
+    i++;
+}
+.....
+
+FUDAMENTAL
+
+int i = 50;
+while (i >  0)
+{
+    printf("hello, world\n");
+    //i = i - 1;
+    i--;
+}
+....
+
+for
+{
+    printf("hello, world\n");
+}
+....
+
+for (int counter = 0; i < 50; i++)
+{
+    printf("hello, world\n");
+}
+.....
+
+ABSTRACTION
+
+
+
+INTEGER OVERFLOW
+000 
+001
+010
+100
+101 
+110
+111
+1 000
